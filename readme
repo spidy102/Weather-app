@@ -1,0 +1,6 @@
+To run the app locally:
+
+1. Populate PORT=3000 and KEY={your openweathermap api key} in a .env file (to be placed in the root)
+2. Run "npm i" in the root of the repo.
+3. Run "node server"
+4. Open the html file from the client folder
